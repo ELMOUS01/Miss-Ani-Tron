@@ -1,5 +1,5 @@
 {
-  "variable1": false,
-  "variable2": true,
-  "variable3": false
+  "UseBoth": false,
+  "UseApplovinOnly": true,
+  "UseUnityOnly": false
 }
